@@ -4,7 +4,7 @@ layout: default
 
 ## Skywars Hive Ores
 
-<img src="skywars/intro.png" alt="intro" width="500" height="600"> Have you ever played on the hive? Noticed how all the ores look really boring and bland, not knowing what’ll come out of them?
+<img src="/skywars/intro.png" alt="intro" width="500" height="600"> Have you ever played on the hive? Noticed how all the ores look really boring and bland, not knowing what’ll come out of them?
 This pack makes the ores textures change to what they actually drop.
 
 This pack was made for a popular Minecraft bedrock edition server called The Hive, I really recommend playing it sometime. I wouldn’t recommend using this on a normal world, this is designed and made for The Hive.
