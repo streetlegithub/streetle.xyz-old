@@ -1,4 +1,7 @@
 # My Packs
 
-## Pack 1
-> pack[Link to another page](./another-page.html).
+## Skywars Hive Ores
+>[Download](./another-page.html).
+
+## Lower Swords
+>[Download](./lower-swords.html).
