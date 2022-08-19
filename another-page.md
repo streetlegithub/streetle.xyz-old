@@ -4,7 +4,7 @@ layout: default
 
 ## Skywars Hive Ores
 
-<img src="/skywars/intro.png" alt="intro">
+<img src="/all/intro.png" alt="intro">
 
 Have you ever played on the hive? Noticed how all the ores look really boring and bland, not knowing what’ll come out of them?
 This pack makes the ores textures change to what they actually drop.
