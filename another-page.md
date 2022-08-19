@@ -2,11 +2,11 @@
 layout: default
 ---
 
-## Welcome to another page
+## Skywars Hive Ores
 
-_yay_
+
 
 [back](./)
-<a href="thumbnail.png" download="MCPACK"> 
+<a href="thumbnail.png" download="skywars-hive-ores-mcpack"> 
 <button type="button">Download</button> 
 </a>
