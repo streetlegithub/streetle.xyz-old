@@ -20,15 +20,27 @@ It works just like any other resource pack out there, nothing special.
 
 Diamond:
 
+<img src="/skywars/dia.png" alt="diamond">
+
 Emerald:
+
+<img src="/skywars/emerald.png" alt="emerald">
 
 Gold:
 
+<img src="/skywars/gold.png" alt="gold">
+
 Redstone:
+
+<img src="/skywars/red.png" alt="redstone">
 
 Iron:
 
+<img src="/skywars/iron.png" alt="iron">
+
 Lapis:
+
+<img src="/skywars/lapiss.png" alt="lapiss">
 
 <img src="/all/req.png" alt="requirements">
 
