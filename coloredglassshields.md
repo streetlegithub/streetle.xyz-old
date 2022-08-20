@@ -16,7 +16,7 @@ This edits the “Shield” Model and Texture to make it look very colorful.
 
 To edit the color you want, click on the pack and click the “Cog/Gear” icon. It looks like this:
 
-
+<img src="/customcoloredhotbars/custom-coloured-hotbars_3.jpeg" alt="gear">
 
 <img src="/all/images.png" alt="images">
 
@@ -24,7 +24,7 @@ To edit the color you want, click on the pack and click the “Cog/Gear” icon.
 
 <img src="/all/req.png" alt="requirements">
 
-
+This works on all devices and all platforms that can import these mods. It will not degrade performance. Performace will be equal to regular gameplay.
 
 <img src="/all/discord.png" alt="discord">
 
