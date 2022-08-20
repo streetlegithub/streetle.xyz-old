@@ -26,7 +26,7 @@ Red:
 
 Green:
 
-<img src="/customcoloredhotbars/custom-coloured-hotbars_8.jpeg" alt="green">
+<img src="/customcoloredhotbars/custom-coloured-hotbars_6.jpeg" alt="green">
 
 Blue:
 
