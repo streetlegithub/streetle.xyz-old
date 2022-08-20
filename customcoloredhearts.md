@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## pack
+## Custom Colored Hearts
 
 <img src="/all/intro.png" alt="intro">
 
