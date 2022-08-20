@@ -22,7 +22,7 @@ layout: default
 
 <img src="/all/discord.png" alt="discord">
 
-Join the discord for a direct download, giveaways, and all my other packs!
+Join the discord for giveaways, a cool community, and get updates early! 
 https://discord.gg/32DuhaYFH
 
 <a href="/pack/low-fire-mcpack.mcpack" download="low-fire-mcpack"> 
