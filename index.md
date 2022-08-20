@@ -7,7 +7,7 @@
 >[Download](./lowerswords.html)
 
 ## Custom Colored Hotbars
->[Download](./lowerswords.html)
+>[Download](./customcoloredhotbars.html)
 
 ## Colored Glass Shields
 >[Download](./coloredglassshields.html)
@@ -17,3 +17,24 @@
 
 ## Custom Colored Hearts
 >[Download](./customcoloredhearts.html)
+
+## Low Fire
+>[Download](./lowfire.html)
+
+## All Ingots
+>[Download](./allingots.html)
+
+## Lean!
+>[Download](./lean.html)
+
+## Campfire Smoke Remover
+>[Download](./campfiresmokeremover.html)
+
+## Particles Remover
+>[Download](./particlesremover.html)
+
+## Longer Swords
+>[Download](./longerswords.html)
+
+## TNT = Bomb
+>[Download](./tntbomb.html)
