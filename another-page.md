@@ -18,6 +18,8 @@ It works just like any other resource pack out there, nothing special.
 
 <img src="/all/images.png" alt="images">
 
+<img src="/lowerswords/lower_swords_4" alt="fight">
+
 Diamond:
 
 <img src="/skywars/dia.png" alt="diamond">
