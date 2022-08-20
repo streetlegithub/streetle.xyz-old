@@ -33,7 +33,7 @@ https://discord.gg/32DuhaYFH
 <button type="button">Mcpack Download</button> 
 </a>
 
-<a href="/customcoloredhearts/-custom-colored-heartszip.zip" download="custom-colored-hearts-zip"> 
+<a href="/customcoloredhearts/custom-colored-hearts-zip.zip" download="custom-colored-hearts-zip"> 
 <button type="button">Zip Download</button> 
 </a>
 
