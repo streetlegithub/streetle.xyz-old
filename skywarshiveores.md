@@ -48,7 +48,7 @@ This works on all devices and all platforms that can import these mods. Performa
 
 <img src="/all/discord.png" alt="discord">
 
-Join the discord for a direct download, giveaways, and all my other packs!
+Join the discord for giveaways, a cool community, and get updates early!
 https://discord.gg/32DuhaYFH
 
 <a href="/skywars/skywars-hive-ores-mcpack.mcpack" download="skywars-hive-ores-mcpack"> 
