@@ -36,27 +36,27 @@ Pink:
 
 Orange:
 
-<img src="/customcoloredhotbars/custom-colored-hotbars_.jpeg" alt="orange">
+<img src="/customcoloredhotbars/custom-colored-hotbars_11.jpeg" alt="orange">
 
 Purple:
 
-<img src="/customcoloredhotbars/custom-colored-hotbars_.jpeg" alt="purple">
+<img src="/customcoloredhotbars/custom-colored-hotbars_12.jpeg" alt="purple">
 
 Magenta:
 
-<img src="/customcoloredhotbars/custom-colored-hotbars_.jpeg" alt="magenta">
+<img src="/customcoloredhotbars/custom-colored-hotbars_13.jpeg" alt="magenta">
 
 Black:
 
-<img src="/customcoloredhotbars/custom-colored-hotbars_.jpeg" alt="black">
+<img src="/customcoloredhotbars/custom-colored-hotbars_14.jpeg" alt="black">
 
 White:
 
-<img src="/customcoloredhotbars/custom-colored-hotbars_.jpeg" alt="white">
+<img src="/customcoloredhotbars/custom-colored-hotbars_15.jpeg" alt="white">
 
 Gold/Yellow:
 
-<img src="/customcoloredhotbars/custom-colored-hotbars_.jpeg" alt="goldyellow">
+<img src="/customcoloredhotbars/custom-colored-hotbars_16.jpeg" alt="goldyellow">
 
 <img src="/all/req.png" alt="requirements">
 
