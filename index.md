@@ -12,9 +12,6 @@
 ## Colored Glass Shields
 >[Download](./coloredglassshields.html)
 
-## Treasure Wars Tweaks
->[Download](./treasurewarstweaks.html)
-
 ## Custom Colored Hearts
 >[Download](./customcoloredhearts.html)
 
