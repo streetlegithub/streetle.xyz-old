@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## pack
+## Custom Colored Hotbars
 
 <img src="/all/intro.png" alt="intro">
 
