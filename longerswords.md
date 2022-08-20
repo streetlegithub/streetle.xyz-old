@@ -25,11 +25,11 @@ layout: default
 Join the discord for a direct download, giveaways, and all my other packs!
 https://discord.gg/32DuhaYFH
 
-<a href="/pack/-mcpack.mcpack" download="-mcpack"> 
+<a href="/pack/longer-swords-mcpack.mcpack" download="longer-swords-mcpack"> 
 <button type="button">Mcpack Download</button> 
 </a>
 
-<a href="/pack/-zip.zip" download="-zip"> 
+<a href="/pack/longer-swords-zip.zip" download="longer-swords-zip"> 
 <button type="button">Zip Download</button> 
 </a>
 
