@@ -6,13 +6,56 @@ layout: default
 
 <img src="/all/intro.png" alt="intro">
 
+Want a fresh, clean hotbar that doesnt take up a lot of your screen, is easy to read, and looks hella sick? Well, this is the pack for you!   
 
+This pack adds 5+ colored hotbars to your game! It is highly customisable and I will add any colors you want me to in the MCPEDL comments :)
 
 <img src="/all/how.png" alt="howitworks">
 
+This edits the “Hotbar_1,2,3,4,5,6,7,8,9” and “Hotbar_End_Cap” texture to make it look very colorful.
 
+To edit the color you want, click on the pack and click the “Cog/Gear” icon. It looks like this:
 
 <img src="/all/images.png" alt="images">
+
+Red:
+
+
+
+Green:
+
+
+
+Blue:
+
+
+
+Pink: 
+
+
+
+Orange:
+
+
+
+Purple:
+
+
+
+Magenta:
+
+
+
+Black:
+
+
+
+White:
+
+
+
+Gold/Yellow:
+
 
 
 
