@@ -30,7 +30,7 @@ Green:
 
 Blue:
 
-<img src="/customcoloredhotbars/custom-coloured-hotbars_9.jpeg" alt="blue">
+<img src="/customcoloredhotbars/custom-coloured-hotbars_8.jpeg" alt="blue">
 
 Pink: 
 
