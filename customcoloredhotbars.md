@@ -22,7 +22,7 @@ To edit the color you want, click on the pack and click the “Cog/Gear” icon.
 
 Red:
 
-<img src="/customcoloredhotbars/custom-coloured-hotbars_7.jpeg" alt="red">
+<img src="/customcoloredhotbars/custom-coloured-hotbars_4.jpeg" alt="red">
 
 Green:
 
