@@ -1,7 +1,7 @@
 # My Packs
 
 ## Skywars Hive Ores
->[Download](./another-page.html).
+>[Download](./skywarshiveores.html).
 
 ## Lower Swords
->[Download](./lower-swords.html).
+>[Download](./lowerswords.html).
