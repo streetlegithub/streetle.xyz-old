@@ -20,43 +20,43 @@ To edit the color you want, click on the pack and click the “Cog/Gear” icon.
 
 Red:
 
-<img src="/customcoloredhotbars/.jpeg" alt="red">
+<img src="/customcoloredhotbars/custom-colored-hotbars_.jpeg" alt="red">
 
 Green:
 
-<img src="/customcoloredhotbars/.jpeg" alt="green">
+<img src="/customcoloredhotbars/custom-colored-hotbars_.jpeg" alt="green">
 
 Blue:
 
-<img src="/customcoloredhotbars/.jpeg" alt="blue">
+<img src="/customcoloredhotbars/custom-colored-hotbars_.jpeg" alt="blue">
 
 Pink: 
 
-<img src="/customcoloredhotbars/.jpeg" alt="pink">
+<img src="/customcoloredhotbars/custom-colored-hotbars_10.jpeg" alt="pink">
 
 Orange:
 
-<img src="/customcoloredhotbars/.jpeg" alt="orange">
+<img src="/customcoloredhotbars/custom-colored-hotbars_.jpeg" alt="orange">
 
 Purple:
 
-<img src="/customcoloredhotbars/.jpeg" alt="purple">
+<img src="/customcoloredhotbars/custom-colored-hotbars_.jpeg" alt="purple">
 
 Magenta:
 
-<img src="/customcoloredhotbars/.jpeg" alt="magenta">
+<img src="/customcoloredhotbars/custom-colored-hotbars_.jpeg" alt="magenta">
 
 Black:
 
-<img src="/customcoloredhotbars/.jpeg" alt="black">
+<img src="/customcoloredhotbars/custom-colored-hotbars_.jpeg" alt="black">
 
 White:
 
-<img src="/customcoloredhotbars/.jpeg" alt="white">
+<img src="/customcoloredhotbars/custom-colored-hotbars_.jpeg" alt="white">
 
 Gold/Yellow:
 
-<img src="/customcoloredhotbars/.jpeg" alt="goldyellow">
+<img src="/customcoloredhotbars/custom-colored-hotbars_.jpeg" alt="goldyellow">
 
 <img src="/all/req.png" alt="requirements">
 
