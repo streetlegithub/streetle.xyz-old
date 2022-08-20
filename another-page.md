@@ -51,11 +51,11 @@ This works on all devices and all platforms that can import these mods. Performa
 Join the discord for a direct download, giveaways, and all my other packs!
 https://discord.gg/32DuhaYFH
 
-<a href="thumbnail.png" download="skywars-hive-ores-mcpack"> 
+<a href="/skywars/skywars-hive-ores-mcpack.mcpack" download="skywars-hive-ores-mcpack"> 
 <button type="button">Mcpack Download</button> 
 </a>
 
-<a href="thumbnail.png" download="skywars-hive-ores-zip"> 
+<a href="/skywars/skywars-hive-ores-zip.zip" download="skywars-hive-ores-zip"> 
 <button type="button">Zip Download</button> 
 </a>
 
