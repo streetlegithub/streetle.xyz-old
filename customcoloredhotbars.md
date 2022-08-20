@@ -16,6 +16,8 @@ This edits the “Hotbar_1,2,3,4,5,6,7,8,9” and “Hotbar_End_Cap” texture t
 
 To edit the color you want, click on the pack and click the “Cog/Gear” icon. It looks like this:
 
+<img src="/customcoloredhotbars/custom-colored-hotbars_6.jpeg" alt="gear">
+
 <img src="/all/images.png" alt="images">
 
 Red:
