@@ -16,49 +16,49 @@ This edits the “Hotbar_1,2,3,4,5,6,7,8,9” and “Hotbar_End_Cap” texture t
 
 To edit the color you want, click on the pack and click the “Cog/Gear” icon. It looks like this:
 
-<img src="/customcoloredhotbars/custom-colored-hotbars_6.jpeg" alt="gear">
+<img src="/customcoloredhotbars/custom-coloured-hotbars_6.jpeg" alt="gear">
 
 <img src="/all/images.png" alt="images">
 
 Red:
 
-<img src="/customcoloredhotbars/custom-colored-hotbars_.jpeg" alt="red">
+<img src="/customcoloredhotbars/custom-coloured-hotbars_.jpeg" alt="red">
 
 Green:
 
-<img src="/customcoloredhotbars/custom-colored-hotbars_.jpeg" alt="green">
+<img src="/customcoloredhotbars/custom-coloured-hotbars_.jpeg" alt="green">
 
 Blue:
 
-<img src="/customcoloredhotbars/custom-colored-hotbars_.jpeg" alt="blue">
+<img src="/customcoloredhotbars/custom-coloured-hotbars_.jpeg" alt="blue">
 
 Pink: 
 
-<img src="/customcoloredhotbars/custom-colored-hotbars_10.jpeg" alt="pink">
+<img src="/customcoloredhotbars/custom-coloured-hotbars_10.jpeg" alt="pink">
 
 Orange:
 
-<img src="/customcoloredhotbars/custom-colored-hotbars_11.jpeg" alt="orange">
+<img src="/customcoloredhotbars/custom-coloured-hotbars_11.jpeg" alt="orange">
 
 Purple:
 
-<img src="/customcoloredhotbars/custom-colored-hotbars_12.jpeg" alt="purple">
+<img src="/customcoloredhotbars/custom-coloured-hotbars_12.jpeg" alt="purple">
 
 Magenta:
 
-<img src="/customcoloredhotbars/custom-colored-hotbars_13.jpeg" alt="magenta">
+<img src="/customcoloredhotbars/custom-coloured-hotbars_13.jpeg" alt="magenta">
 
 Black:
 
-<img src="/customcoloredhotbars/custom-colored-hotbars_14.jpeg" alt="black">
+<img src="/customcoloredhotbars/custom-coloured-hotbars_14.jpeg" alt="black">
 
 White:
 
-<img src="/customcoloredhotbars/custom-colored-hotbars_15.jpeg" alt="white">
+<img src="/customcoloredhotbars/custom-coloured-hotbars_15.jpeg" alt="white">
 
 Gold/Yellow:
 
-<img src="/customcoloredhotbars/custom-colored-hotbars_16.jpeg" alt="goldyellow">
+<img src="/customcoloredhotbars/custom-coloured-hotbars_16.jpeg" alt="goldyellow">
 
 <img src="/all/req.png" alt="requirements">
 
