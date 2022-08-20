@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## pack
+## Colored Glass Shields
 
 <img src="/all/intro.png" alt="intro">
 
