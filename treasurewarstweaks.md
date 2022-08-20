@@ -25,11 +25,11 @@ layout: default
 Join the discord for a direct download, giveaways, and all my other packs!
 https://discord.gg/32DuhaYFH
 
-<a href="/pack/-mcpack.mcpack" download="-mcpack"> 
+<a href="/pack/treasure-wars-tweaks-mcpack.mcpack" download="treasure-wars-tweaks-mcpack"> 
 <button type="button">Mcpack Download</button> 
 </a>
 
-<a href="/pack/-zip.zip" download="-zip"> 
+<a href="/pack/treasure-wars-tweaks-zip.zip" download="treasure-wars-tweaks-zip"> 
 <button type="button">Zip Download</button> 
 </a>
 
