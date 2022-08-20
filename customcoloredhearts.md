@@ -25,11 +25,11 @@ layout: default
 Join the discord for a direct download, giveaways, and all my other packs!
 https://discord.gg/32DuhaYFH
 
-<a href="/pack/-mcpack.mcpack" download="-mcpack"> 
+<a href="/pack/custom-colored-hearts-mcpack.mcpack" download="custom-colored-hearts-mcpack"> 
 <button type="button">Mcpack Download</button> 
 </a>
 
-<a href="/pack/-zip.zip" download="-zip"> 
+<a href="/pack/-custom-colored-heartszip.zip" download="custom-colored-hearts-zip"> 
 <button type="button">Zip Download</button> 
 </a>
 
