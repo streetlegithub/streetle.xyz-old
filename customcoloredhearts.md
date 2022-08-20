@@ -14,7 +14,7 @@ This edits the “Heart” texture to make it look very colorful.
 
 To edit the color you want, click on the pack and click the “Cog/Gear” icon. It looks like this:
 
-
+<img src="/customcoloredhotbars/custom-coloured-hotbars_3.jpeg" alt="gear">
 
 <img src="/all/images.png" alt="images">
 
