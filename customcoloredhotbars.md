@@ -61,7 +61,7 @@ Gold/Yellow:
 
 <img src="/all/req.png" alt="requirements">
 
-
+This works on all devices and all platforms that can import these mods. It will not degrade performance. Performace will be equal to regular gameplay.
 
 <img src="/all/discord.png" alt="discord">
 
