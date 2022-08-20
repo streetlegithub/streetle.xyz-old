@@ -49,11 +49,11 @@ This works on all devices and all platforms that can import these mods. It will 
 Join the discord for a direct download, giveaways, and all my other packs!
 https://discord.gg/32DuhaYFH
 
-<a href="/pack/colored-glass-shields-mcpack.mcpack" download="colored-glass-shields-mcpack"> 
+<a href="/coloredglassshields/colored-glass-shields-mcpack.mcpack" download="colored-glass-shields-mcpack"> 
 <button type="button">Mcpack Download</button> 
 </a>
 
-<a href="/pack/colored-glass-shields-zip.zip" download="colored-glass-shields-zip"> 
+<a href="/coloredglassshields/colored-glass-shields-zip.zip" download="colored-glass-shields-zip"> 
 <button type="button">Zip Download</button> 
 </a>
 
