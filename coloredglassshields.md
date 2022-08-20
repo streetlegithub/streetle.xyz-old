@@ -20,7 +20,25 @@ To edit the color you want, click on the pack and click the “Cog/Gear” icon.
 
 <img src="/all/images.png" alt="images">
 
+<img src="/coloredglassshields/black.png" alt="black">
 
+<img src="/coloredglassshields/blue.png" alt="blue">
+
+<img src="/coloredglassshields/brown.png" alt="brown">
+
+<img src="/coloredglassshields/cyan.png" alt="cyan">
+
+<img src="/coloredglassshields/green.png" alt="green">
+
+<img src="/coloredglassshields/lime.png" alt="lime">
+
+<img src="/coloredglassshields/magenta.png" alt="magenta">
+
+<img src="/coloredglassshields/normal.png" alt="normal">
+
+<img src="/coloredglassshields/orange.png" alt="orange">
+
+<img src="/coloredglassshields/pink.png" alt="pink">
 
 <img src="/all/req.png" alt="requirements">
 
