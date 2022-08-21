@@ -2,11 +2,11 @@
 layout: default
 ---
 
-## pack
+## Particles Remover
 
 <img src="/all/intro.png" alt="intro">
 
-
+Have you realised that your game has been lagging recently? That it isn’t running like it used too? RenderDragon eating all your fps up? Well, now you can improve that! This pack will make your fps increase highly and does not cause issues in-game. This pack was made to remove annoying particles that make your fps lower for no reason. You do not need these particles for your game to run, they just eat up your fps. Now, you don’t have to worry!
 
 <img src="/all/how.png" alt="howitworks">
 
@@ -25,11 +25,11 @@ layout: default
 Join the discord for giveaways, a cool community, and get updates early! 
 https://discord.gg/32DuhaYFH
 
-<a href="/pack/particles-remover-mcpack.mcpack" download="particles-remover-mcpack"> 
+<a href="/particlesremover/particles-remover-mcpack.mcpack" download="particles-remover-mcpack"> 
 <button type="button">Mcpack Download</button> 
 </a>
 
-<a href="/pack/particles-remover-zip.zip" download="particles-remover-zip"> 
+<a href="/particlesremover/particles-remover-zip.zip" download="particles-remover-zip"> 
 <button type="button">Zip Download</button> 
 </a>
 
