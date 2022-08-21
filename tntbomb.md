@@ -6,11 +6,11 @@ layout: default
 
 <img src="/all/intro.png" alt="intro">
 
-Noticed how tnt looks really bland? How it doesn’t really scare you? Remember the good ol’ day of minecraft, when tnt was seen as the scariest thing in the world. Re-live that moment, with the TNT = Bomb Resource Pack.
+Noticed how tnt looks really bland? How it doesn’t really scare you? Remember the good ol’ day of minecraft, when tnt was seen as the scariest thing in the world. Re-live that moment, with the TNT = Bomb Resource Pack. This pack was made to make tnt into bombs, making them seem more scarier.
 
 <img src="/all/how.png" alt="howitworks">
 
-
+Changes tnt textures to have bomb texture.
 
 <img src="/all/images.png" alt="images">
 
