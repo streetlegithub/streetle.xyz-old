@@ -2,11 +2,11 @@
 layout: default
 ---
 
-## pack
+## Lean!
 
 <img src="/all/intro.png" alt="intro">
 
-
+Lean! I made the “Lean” meme in Minecraft Bedrock Edition for free for everyone to try out for themselves! This pack is finished and 100% works. This has been tested multiple times and it has always worked.
 
 <img src="/all/how.png" alt="howitworks">
 
@@ -25,11 +25,11 @@ layout: default
 Join the discord for giveaways, a cool community, and get updates early! 
 https://discord.gg/32DuhaYFH
 
-<a href="/pack/lean-mcpack.mcpack" download="lean-mcpack"> 
+<a href="/lean/lean-mcpack.mcpack" download="lean-mcpack"> 
 <button type="button">Mcpack Download</button> 
 </a>
 
-<a href="/pack/lean-zip.zip" download="lean-zip"> 
+<a href="/lean/lean-zip.zip" download="lean-zip"> 
 <button type="button">Zip Download</button> 
 </a>
 
