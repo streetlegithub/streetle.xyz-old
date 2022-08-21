@@ -18,7 +18,7 @@ Changes tnt textures to have bomb texture.
 
 <img src="/all/req.png" alt="requirements">
 
-
+This works on all devices and all platforms that can import these mods. Performance will stay the same, textures are still 16x16.
 
 <img src="/all/discord.png" alt="discord">
 
