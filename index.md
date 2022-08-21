@@ -43,4 +43,4 @@
 
 
 
-[Privacy Policy](./privacypolicy.html)
+By visiting this site you agree to our [Privacy Policy](./privacypolicy.html)
