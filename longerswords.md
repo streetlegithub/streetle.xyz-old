@@ -6,7 +6,7 @@ layout: default
 
 <img src="/all/intro.png" alt="intro">
 
-Have you seen my Lower Swords pack? If yes, this is the opposite of that pack, it makes the swords annoyingly long! This was a suggestion in my discord server so i decided to make it a thing. Thanks s2k!
+Have you seen my Lower Swords pack? If yes, this is the opposite of that pack, it makes the swords annoyingly long! This was a suggestion in my discord server so i decided to make it a thing. Thanks s2k! This pack was made to make the swords annoyingly long.
 
 <img src="/all/how.png" alt="howitworks">
 
