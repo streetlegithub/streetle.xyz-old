@@ -10,7 +10,7 @@ Have you realised that your game has been lagging recently? That it isn’t runn
 
 <img src="/all/how.png" alt="howitworks">
 
-
+Changes campfire_smoke.png, particles.png, sculk_charge.png, sculk_charge_pop.png, sculk_soul.png, shriek.png, sonic_explosion.png, soul.png and vibration_signal.png to a blank texture.
 
 <img src="/all/images.png" alt="images">
 
@@ -18,7 +18,7 @@ Have you realised that your game has been lagging recently? That it isn’t runn
 
 <img src="/all/req.png" alt="requirements">
 
-
+This works on all devices and all platforms that can import these mods. Performance will increase highly.
 
 <img src="/all/discord.png" alt="discord">
 
