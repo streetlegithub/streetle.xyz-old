@@ -10,7 +10,7 @@ Played on your world and realised that that campfire you placed in your house lo
 
 <img src="/all/how.png" alt="howitworks">
 
-
+Changes campfire_smoke particle to a blank texture.
 
 <img src="/all/images.png" alt="images">
 
@@ -18,7 +18,7 @@ Played on your world and realised that that campfire you placed in your house lo
 
 <img src="/all/req.png" alt="requirements">
 
-
+This works on all devices and all platforms that can import these mods. Performance may slightly increase, textures have been removed and do not have to load.
 
 <img src="/all/discord.png" alt="discord">
 
