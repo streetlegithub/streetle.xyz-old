@@ -2,11 +2,11 @@
 layout: default
 ---
 
-## pack
+## TNT = Bomb
 
 <img src="/all/intro.png" alt="intro">
 
-
+Noticed how tnt looks really bland? How it doesn’t really scare you? Remember the good ol’ day of minecraft, when tnt was seen as the scariest thing in the world. Re-live that moment, with the TNT = Bomb Resource Pack.
 
 <img src="/all/how.png" alt="howitworks">
 
@@ -25,11 +25,11 @@ layout: default
 Join the discord for giveaways, a cool community, and get updates early! 
 https://discord.gg/32DuhaYFH
 
-<a href="/pack/tnt-bomb-mcpack.mcpack" download="tnt-bomb-mcpack"> 
+<a href="/tntbomb/tnt-bomb-mcpack.mcpack" download="tnt-bomb-mcpack"> 
 <button type="button">Mcpack Download</button> 
 </a>
 
-<a href="/pack/tnt-bomb-zip.zip" download="tnt-bomb-zip"> 
+<a href="/tntbomb/tnt-bomb-zip.zip" download="tnt-bomb-zip"> 
 <button type="button">Zip Download</button> 
 </a>
 
