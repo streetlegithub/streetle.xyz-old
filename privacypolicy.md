@@ -8,7 +8,7 @@ Users may opt out of personalised advertising by visiting Ads Settings. (Alterna
 You will be shown ads from google and other services not owned by google nor streetle. These ads are not in our control, and any content shown is not shown directly from us, rather, another company that has personalised you that ad by collecting data.
 
 [Agree](./)
-[Disagree](./)
+By visiting this site you are required to agree to our Privacy Policy.
 
 <head>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5850853284840895"
