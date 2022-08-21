@@ -10,7 +10,7 @@ Have you seen my Lower Swords pack? If yes, this is the opposite of that pack, i
 
 <img src="/all/how.png" alt="howitworks">
 
-
+Changes all sword textures to have one pixel longer.
 
 <img src="/all/images.png" alt="images">
 
@@ -18,7 +18,7 @@ Have you seen my Lower Swords pack? If yes, this is the opposite of that pack, i
 
 <img src="/all/req.png" alt="requirements">
 
-
+This works on all devices and all platforms that can import these mods. Performance will stay the same, textures are almost the same.
 
 <img src="/all/discord.png" alt="discord">
 
