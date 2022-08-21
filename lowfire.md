@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## pack
+## Low Fire
 
 <img src="/all/intro.png" alt="intro">
 
@@ -25,11 +25,11 @@ This works on all devices and all platforms that can import these mods. It will 
 Join the discord for giveaways, a cool community, and get updates early! 
 https://discord.gg/32DuhaYFH
 
-<a href="/pack/low-fire-mcpack.mcpack" download="low-fire-mcpack"> 
+<a href="/lowfire/low-fire-mcpack.mcpack" download="low-fire-mcpack"> 
 <button type="button">Mcpack Download</button> 
 </a>
 
-<a href="/pack/low-fire-zip.zip" download="low-fire-zip"> 
+<a href="/lowfire/low-fire-zip.zip" download="low-fire-zip"> 
 <button type="button">Zip Download</button> 
 </a>
 
