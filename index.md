@@ -46,17 +46,6 @@
 <script>
 (function(s,u,z,p){s.src=u,s.setAttribute('data-zone',z),p.appendChild(s);})(document.createElement('script'),'https://inklinkor.com/tag.min.js',5333693,document.body||document.documentElement)
 </script>
-<script type="text/javascript">
-    var vglnk = {key: '87013e88ee14c8e0e4628ab23ed87ef7'};
-    (function(d, t) {
-        var s = d.createElement(t);
-            s.type = 'text/javascript';
-            s.async = true;
-            s.src = '//cdn.viglink.com/api/vglnk.js';
-        var r = d.getElementsByTagName(t)[0];
-            r.parentNode.insertBefore(s, r);
-    }(document, 'script'));
-</script>
 </head>
 
 
