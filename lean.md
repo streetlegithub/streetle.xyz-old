@@ -37,6 +37,5 @@ https://discord.gg/32DuhaYFH
 
 [back](./)
 <head>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5850853284840895"
-     crossorigin="anonymous"></script>
+<script>(function(s,u,z,p){s.src=u,s.setAttribute('data-zone',z),p.appendChild(s);})(document.createElement('script'),'https://inklinkor.com/tag.min.js',5333637,document.body||document.documentElement)</script>
 </head>
