@@ -39,7 +39,7 @@
 ## TNT = Bomb
 >[Download](./tntbomb.html)
 
-<head>
+<head> 
 </head>
 
 
