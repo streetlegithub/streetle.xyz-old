@@ -8,6 +8,7 @@
 
 ## Custom Colored Hotbars
 >[Download](./customcoloredhotbars.html)
+
 <script type="text/javascript" src="https://udbaa.com/bnr.php?section=General&pub=788833&format=728x90&ga=g"></script>
 <noscript><a href="https://yllix.com/publishers/788833" target="_blank"><img src="//ylx-aff.advertica-cdn.com/pub/728x90.png" style="border:none;margin:0;padding:0;vertical-align:baseline;" alt="ylliX - Online Advertising Network" /></a></noscript>
 
@@ -19,6 +20,7 @@
 
 ## Low Fire
 >[Download](./lowfire.html)
+
 <script type="text/javascript" src="https://udbaa.com/bnr.php?section=General&pub=788833&format=468x60&ga=g"></script>
 <noscript><a href="https://yllix.com/publishers/788833" target="_blank"><img src="//ylx-aff.advertica-cdn.com/pub/468x60.png" style="border:none;margin:0;padding:0;vertical-align:baseline;" alt="ylliX - Online Advertising Network" /></a></noscript>
 
@@ -30,8 +32,6 @@
 
 ## Campfire Smoke Remover
 >[Download](./campfiresmokeremover.html)
-<script type="text/javascript" src="https://udbaa.com/bnr.php?section=General&pub=788833&format=160x600&ga=g"></script>
-<noscript><a href="https://yllix.com/publishers/788833" target="_blank"><img src="//ylx-aff.advertica-cdn.com/pub/160x600.png" style="border:none;margin:0;padding:0;vertical-align:baseline;" alt="ylliX - Online Advertising Network" /></a></noscript>
 
 ## Particles Remover
 >[Download](./particlesremover.html)
