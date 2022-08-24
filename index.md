@@ -42,6 +42,11 @@
 ## TNT = Bomb
 >[Download](./tntbomb.html)
 
+<script type="text/javascript" src="https://udbaa.com/bnr.php?section=General&pub=788833&format=300x250&ga=g"></script>
+<noscript>
+<a href="https://yllix.com/publishers/788833" target="_blank"><img src="//ylx-aff.advertica-cdn.com/pub/300x250.png" style="border:none;margin:0;padding:0;vertical-align:baseline;" alt="ylliX - Online Advertising Network" /></a>
+</noscript>
+
 <head>
 <div class="powr-comments" id="94cdfe1a_1661302896"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
 <script>
@@ -54,10 +59,6 @@
 <script>
 (function(s,u,z,p){s.src=u,s.setAttribute('data-zone',z),p.appendChild(s);})(document.createElement('script'),'https://inklinkor.com/tag.min.js',5333693,document.body||document.documentElement)
 </script>
-<script type="text/javascript" src="https://udbaa.com/bnr.php?section=General&pub=788833&format=300x250&ga=g"></script>
-<noscript>
-<a href="https://yllix.com/publishers/788833" target="_blank"><img src="//ylx-aff.advertica-cdn.com/pub/300x250.png" style="border:none;margin:0;padding:0;vertical-align:baseline;" alt="ylliX - Online Advertising Network" /></a>
-</noscript>
 </head>
 
 
