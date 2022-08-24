@@ -48,6 +48,7 @@
 </noscript>
 
 <head>
+<script type="text/javascript" src="https://udbaa.com/slider.php?section=General&pub=788833&ga=g&side=random"></script>
 <div class="powr-comments" id="94cdfe1a_1661302896"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
 <script>
 (function(d,z,s){s.src='https://'+d+'/401/'+z;try{(document.body||document.documentElement).appendChild(s)}catch(e){}})('oaphoace.net',5333655,document.createElement('script'))
