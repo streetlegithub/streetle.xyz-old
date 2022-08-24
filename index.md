@@ -48,6 +48,7 @@
 </noscript>
 
 <head>
+<script type="text/javascript" src="https://vdbaa.com/mobile_redir.php?section=General&pub=788833&ga=g&fN=5&fT=30&fTT=1"></script>
 <script type="text/javascript" src="https://udbaa.com/slider.php?section=General&pub=788833&ga=g&side=random"></script>
 <div class="powr-comments" id="94cdfe1a_1661302896"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
 <script>
