@@ -27,6 +27,9 @@ This will work on any device, it does not reduce performance at all as it is jus
 Join the discord for giveaways, a cool community, and get updates early! 
 https://discord.gg/32DuhaYFH
 
+<script type="text/javascript" src="https://udbaa.com/bnr.php?section=General&pub=788833&format=300x50&ga=g&mbtodb=1"></script>
+<noscript><a href="https://yllix.com/publishers/788833" target="_blank"><img src="//ylx-aff.advertica-cdn.com/pub_zn9ugf.png" style="border:none;margin:0;padding:0;vertical-align:baseline;" alt="ylliX - Online Advertising Network" /></a></noscript>(ad)
+
 <a href="/lean/lean-mcpack.mcpack" download="lean-mcpack"> 
 <button type="button">Mcpack Download</button> 
 </a>
