@@ -1,2 +1,2 @@
 # streetle's bedrock basement
-this is my website
+A website used for publishing my minecraft resource packs.
