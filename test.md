@@ -1,3 +1,4 @@
+<head>
 congrats. you found a cool little funny easter egg.
 now go. shoo
 
@@ -23,3 +24,4 @@ this site is used for testing ads and plugins
 
 Responsive
 <ins style="width: 0px;height:0px" data-width="0" data-height="0" class="xc0ea4fcfdb" data-domain="//qoaaa.com" data-affquery="/0ab20e1ad3/c0ea4fcfdb/?placementName=default"><script src="//qoaaa.com/js/responsive.js" async></script></ins>
+</head>
