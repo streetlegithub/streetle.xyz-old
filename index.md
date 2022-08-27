@@ -45,7 +45,6 @@
 
 
 <head> 
-https://qoaaa.com/073522e25b/109a6b60b4/?placementName=default
 </head>
 
 
