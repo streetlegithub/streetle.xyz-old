@@ -45,7 +45,7 @@
 
 
 <head> 
-<ins style="width: 300px;height:250px" data-width="300" data-height="250" class="r7f80df2900" data-domain="//qoaaa.com" data-affquery="/9f6c330659/7f80df2900/?placementName=default"><script src="//qoaaa.com/js/responsive.js" async></script></ins>
+https://qoaaa.com/073522e25b/109a6b60b4/?placementName=default
 </head>
 
 
