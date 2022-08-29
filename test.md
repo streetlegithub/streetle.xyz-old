@@ -9,7 +9,7 @@ this site is used for testing ads and plugins
 
 <script data-cfasync='false' type='text/javascript' src='//p450098.clksite.com/adServe/banners?tid=450098_881002_3&tagid=9'></script>
 
-<script data-cfasync='false' type='text/javascript' src='//p450098.clksite.com/adServe/banners?tid=450098_881002_4&type=slider&side=right&size=4&position=top&animate=on&close=enable'></script>
+<script data-cfasync='false' type='text/javascript' src='//p450098.clksite.com/adServe/banners?tid=450098_881002_7'></script>
 
 <script data-cfasync='false' type='text/javascript' src='//p450098.clksite.com/adServe/banners?tid=450098_881002_5&type=footer&size=37'></script>
 
