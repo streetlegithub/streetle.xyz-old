@@ -15,5 +15,9 @@ this site is used for testing ads and plugins
 
 <script type='text/javascript' src='//p450098.clksite.com/adServe/banners?tid=450098_881002_6&type=floating_banner&size=6&side=center&position=top'></script>
 
+<script data-cfasync='false' type='text/javascript' src='//p450098.clksite.com/adServe/banners?tid=450098_881002_8&size=7'></script>
+
+<script data-cfasync='false' type='text/javascript' src='//p450098.clksite.com/adServe/banners?tid=450098_881002_9'></script>
+
   </head>
  </body>
