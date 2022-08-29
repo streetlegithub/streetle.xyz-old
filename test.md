@@ -9,11 +9,11 @@ this site is used for testing ads and plugins
 
 <script data-cfasync='false' type='text/javascript' src='//p450098.clksite.com/adServe/banners?tid=450098_881002_3&tagid=9'></script>
 
-<script data-cfasync='false' type='text/javascript' src='//p450098.clksite.com/adServe/banners?tid=450098_881002_7'></script>
-
-<script data-cfasync='false' type='text/javascript' src='//p450098.clksite.com/adServe/banners?tid=450098_881002_8&size=7'></script>
+<script data-cfasync='false' type='text/javascript' src='//p450098.clksite.com/adServe/banners?tid=450098_881002_5&type=footer&size=37'></script>
 
 <script data-cfasync='false' type='text/javascript' src='//p450098.clksite.com/adServe/banners?tid=450098_881002_9'></script>
+
+<script type='text/javascript' src='//p450098.clksite.com/adServe/banners?tid=450098_881002_6&type=floating_banner&size=6&side=center&position=top'></script>
 
   </head>
  </body>
