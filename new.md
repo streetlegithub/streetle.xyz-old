@@ -3,10 +3,10 @@
 > Find out who I am <a href="streetle">here</a>.
 
 ## IRL Info
-> What do you want to know? Check if the answer is <a href="url">here</a>!
+> What do you want to know? Check if the answer is <a href="irl">here</a>.
 
 ## My Favourite Games
-> You can find a list of my favourite games <a href="url">here</a>.
+> You can find a list of my favourite games <a href="games">here</a>.
 
 ## My Minecraft Mods
-> Download all of my Minecraft mods for free <a href="index">here</a>.
+> Download all of my Minecraft mods for free <a href="packs">here</a>.
