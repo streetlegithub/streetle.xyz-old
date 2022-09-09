@@ -1,4 +1,4 @@
-# My Packs
+# My Minecraft Mods
 
 ## Skywars Hive Ores
 >[Download](./skywarshiveores.html)
@@ -42,20 +42,4 @@
 ## TNT = Bomb
 >[Download](./tntbomb.html)
 
-
-
-<head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-4EYLESFVQT"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-4EYLESFVQT');
-</script>
-</head>
-
-
-
-By visiting this site you agree to our [Privacy Policy](./privacypolicy.html)
+As of 9th September 2022, I have stopped making minecraft mods.
