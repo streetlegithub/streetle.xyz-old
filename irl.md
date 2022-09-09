@@ -10,6 +10,4 @@ I won't go into specifics, but I live somewhere in england.
 I am  |~ ̸̢̲̙͍͖̮̯̄̎̈́~| years old
 
 ## Any siblings?
-I have 1 half brother and 1 half sister. I still call them brother and sister though <3
-My sister is 14
-My brother is 5
+I have 1 half brother and 1 half sister. I still call them brother and sister though <3 <br> My sister is 14 <br> My brother is 5
