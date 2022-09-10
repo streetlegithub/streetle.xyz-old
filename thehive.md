@@ -29,3 +29,10 @@
 ## Murder Mystery:
 
 <img src="/hive/murder.jpg" alt="murder">
+
+All stats were generated using The Hive's API.
+All images were generated using the "Assisant" bot on discord.
+
+[https://assistant.ga/discord](Assistant Bot Discord)
+
+[back](./)
