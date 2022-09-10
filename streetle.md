@@ -16,3 +16,5 @@ I also chose it because I prefer the faster power.
 
 ## Why not get a PC?
 I bought my xbox when I was very young, so I didn't understand how important and more useful a PC would be. So I just haven't had the time or money to get a PC yet.
+
+[back](./)
