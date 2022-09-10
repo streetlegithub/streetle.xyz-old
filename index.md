@@ -23,6 +23,9 @@
 ## My Minecraft Mods
 > Download all of my Minecraft mods for free <a href="packs">here</a>.
 
+## My Discord Server
+> Join and find out info about my discord server <a href="discord">here</a>.
+
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5850853284840895"
      crossorigin="anonymous"></script>
 <!-- horizontal2 -->
