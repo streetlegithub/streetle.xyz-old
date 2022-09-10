@@ -22,6 +22,9 @@
 ## My Social Medias
 > Find all my accounts on a lot of platforms <a href="socialmedia">here</a>.
 
+## The Hive
+> See all of my stats on The Hive Minecraft Bedrock server <a href="thehive">here</a>.
+
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5850853284840895"
      crossorigin="anonymous"></script>
 <!-- horizontal2 -->
