@@ -26,6 +26,9 @@
 ## My Discord Server
 > Join and find out info about my discord server <a href="discord">here</a>.
 
+## My Social Medias
+> Find all my accounts on a lot of platforms <a href="socialmedia">here</a>.
+
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5850853284840895"
      crossorigin="anonymous"></script>
 <!-- horizontal2 -->
