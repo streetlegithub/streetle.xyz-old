@@ -29,7 +29,8 @@ Performance will be equal to regular gameplay.
 <img src="/all/discord.png" alt="discord">
 
 Join the discord for giveaways, a cool community, and get updates early! 
-https://discord.gg/32DuhaYFH
+
+[Discord](./discord)
 
 <a href="/lowerswords/lower-swords-mcpack.mcpack" download="lower-swords-mcpack"> 
 <button type="button">Mcpack Download</button> 
