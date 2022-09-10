@@ -60,10 +60,7 @@ This privacy policy was created using Termly's <a style="color: rgb(48, 48, 241)
 </div>
 </head>
 
-[Agree](./)
-
-By visiting this site you are required to agree to our Privacy Policy.
-You agree that the Privacy Policy can be updated at any time.
+[back](./)
 
 <head>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5850853284840895"
