@@ -24,14 +24,18 @@
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5850853284840895"
      crossorigin="anonymous"></script>
+<!-- horizontal2 -->
 <ins class="adsbygoogle"
      style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-fb+5w+4e-db+86"
      data-ad-client="ca-pub-5850853284840895"
-     data-ad-slot="2631734593"></ins>
+     data-ad-slot="4491611170"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+Copy code snippet
+
 
 By visiting this site you agree to our [Privacy Policy](./privacypolicy.html), [Terms And Conditions](./tsandcs.html) and our [Cookie Policy](./cookies.html)
