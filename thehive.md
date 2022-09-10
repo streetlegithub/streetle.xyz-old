@@ -1,16 +1,16 @@
 ## Profile:
-<img src="/thehive/profile.jpg" alt="profile">
+<img src="/hive/profile.jpg" alt="profile">
 ## Skywars:
-<img src="/thehive/sky.jpg" alt="sky">
+<img src="/hive/sky.jpg" alt="sky">
 ## Treasure Wars:
-<img src="/thehive/treasure.jpg" alt="treasure">
+<img src="/hive/treasure.jpg" alt="treasure">
 ## Deathrun:
-<img src="/thehive/death.jpg" alt="death">
+<img src="/hive/death.jpg" alt="death">
 ## Survival Games:
-<img src="/thehive/survival.jpg" alt="survival">
+<img src="/hive/survival.jpg" alt="survival">
 ## Just Build:
-<img src="/thehive/just.jpg" alt="just">
+<img src="/hive/just.jpg" alt="just">
 ## Hide & Seek:
-<img src="/thehive/hide.jpg" alt="hide">
+<img src="/hive/hide.jpg" alt="hide">
 ## Murder Mystery:
-<img src="/thehive/murder.jpg" alt="murder">
+<img src="/hive/murder.jpg" alt="murder">
