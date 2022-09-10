@@ -11,4 +11,4 @@
 ## My Minecraft Mods
 > Download all of my Minecraft mods for free <a href="packs">here</a>.
 
-By visiting this site you agree to our [Privacy Policy](./privacypolicy.html) and our [Terms And Conditions](./tsandcs.html)
+By visiting this site you agree to our [Privacy Policy](./privacypolicy.html), [Terms And Conditions](./tsandcs.html) and our [Cookie Policy](./cookies.html)
