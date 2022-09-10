@@ -9,8 +9,6 @@
 ## Custom Colored Hotbars
 >[Download](./customcoloredhotbars.html)
 
-
-
 ## Colored Glass Shields
 >[Download](./coloredglassshields.html)
 
@@ -20,8 +18,6 @@
 ## Low Fire
 >[Download](./lowfire.html)
 
-
-
 ## All Ingots
 >[Download](./allingots.html)
 
@@ -30,8 +26,6 @@
 
 ## Campfire Smoke Remover
 >[Download](./campfiresmokeremover.html)
-
-
 
 ## Particles Remover
 >[Download](./particlesremover.html)
@@ -43,3 +37,5 @@
 >[Download](./tntbomb.html)
 
 As of 9th September 2022, I have stopped making minecraft mods.
+
+[back](./)
