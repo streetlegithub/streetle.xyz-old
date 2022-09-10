@@ -36,7 +36,6 @@
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Copy code snippet
 
 
 By visiting this site you agree to our [Privacy Policy](./privacypolicy.html), [Terms And Conditions](./tsandcs.html) and our [Cookie Policy](./cookies.html)
