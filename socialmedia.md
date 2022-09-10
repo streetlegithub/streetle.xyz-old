@@ -12,23 +12,25 @@ StreetleLeon
 ## Xbox (gamertag):
 streetle
 
-## Twitter
+## Twitter:
 streetle2
 
-## Discord
+## Discord:
 streetle#9853
 
-## Reddit
+## Reddit:
 StreetleLeon
 
-## Spotify
+## Spotify:
 streetle
 
-## Tiktok
+## Tiktok:
 <i>no.</i>
 
-## Snapchat
+## Snapchat:
 streetlesnaps
 
-## Meta (oculus)
+## Meta (oculus):
 streetle
+
+[back](./)
