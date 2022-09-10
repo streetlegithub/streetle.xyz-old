@@ -38,7 +38,7 @@
 ## 👋-general
 > General chat, you can go off topic here.
 
-##💁-support
+## 💁-support
 > Create a ticket for me to assist you with any issue.
 
 ## 🌆-media
