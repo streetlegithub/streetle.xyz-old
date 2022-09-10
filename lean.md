@@ -25,7 +25,8 @@ This will work on any device, it does not reduce performance at all as it is jus
 <img src="/all/discord.png" alt="discord">
 
 Join the discord for giveaways, a cool community, and get updates early! 
-https://discord.gg/32DuhaYFH
+
+[Discord](./discord)
 
 <a href="/lean/lean-mcpack.mcpack" download="lean-mcpack"> 
 <button type="button">Mcpack Download</button> 
