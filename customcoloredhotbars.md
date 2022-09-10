@@ -67,7 +67,8 @@ This works on all devices and all platforms that can import these mods. It will 
 <img src="/all/discord.png" alt="discord">
 
 Join the discord for giveaways, a cool community, and get updates early! 
-https://discord.gg/32DuhaYFH
+
+[Discord](./discord)
 
 <a href="/customcoloredhotbars/custom-colored-hotbars-mcpack.mcpack" download="custom-colored-hotbars-mcpack"> 
 <button type="button">Mcpack Download</button> 
