@@ -24,7 +24,7 @@
 > You can get roles here.
 
 ## ❤️-donate
-> I have my paypal.me link here (<a href="https://paypal.me/streetlemcpe">https://paypal.me/streetlemcpe</a>.
+> I have my paypal.me link here (<a href="https://paypal.me/streetlemcpe">https://paypal.me/streetlemcpe</a>).
 
 ## ⬇️-download-my-packs
 > Here I used to post my downloads for my Minecraft addons/worlds. I will no longer be posting there.
@@ -42,7 +42,7 @@
 > Create a ticket for me to assist you with any issue.
 
 ## 🌆-media
-> Post images/videos here
+> Post images/videos here.
 
 ## 📈-bump-???
 > Bump the server up on Disboard. Channel name automatically changes.
@@ -52,3 +52,27 @@
 
 ## 🎶-music (text) and 🎵-music (voice)
 > Use the text channel to ask a bot to play music, join the voice channel to hear the music.
+
+## 😂-memes
+> Post (funny) memes here.
+
+## 🔢-counting-to-????
+> Count from 1-100000000000000 (it's unlimited). We set goals on the channel name.
+
+## 🤯-spam
+> SPAM SPAM SPAM SPAM SPAM SPAM SPAM.
+
+## 🎥-video-ideas
+> Post video ideas for me to do, or you can steal the ideas for yourself.
+
+## 📊-stats
+> Check your stats for the Minecraft server "The Hive".
+
+## ✅-verify
+> Verify you are not a bot.
+
+## 🤖-server-messages
+> See people leave and join.
+
+## 📒-rules
+> See the rules that you have to follow.
