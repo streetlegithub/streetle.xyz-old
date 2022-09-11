@@ -32,7 +32,7 @@
 
 <i>Last Updated: 11th September 2022</i>
 
-All stats were generated using The Hive's API.
+All stats were generated using The Hive's API.<br>
 All images were generated using the "Assisant" bot on discord.
 
 [Assistant Bot Discord](https://assistant.ga/discord)
