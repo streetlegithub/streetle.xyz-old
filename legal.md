@@ -12,12 +12,4 @@ You can view our Terms and Conditions <a href="tsandcs">here</a>.
 
 You can view our Cookie Policy <a href="cookies">here</a>
 
-<button onclick="closeWin()">back>
-
-<script>
-let myWindow;
-
-function closeWin() {
-  myWindow.close();
-}
-</script>
+<a href="javascript:window.close();">back</a>
