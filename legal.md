@@ -12,8 +12,6 @@ You can view our Terms and Conditions <a href="tsandcs">here</a>.
 
 You can view our Cookie Policy <a href="cookies">here</a>
 
-<body>
-
 <button onclick="closeWin()">back>
 
 <script>
@@ -23,5 +21,3 @@ function closeWin() {
   myWindow.close();
 }
 </script>
-
-</body>
