@@ -37,7 +37,3 @@
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
-
-
-By visiting this site you agree to our [Privacy Policy](./privacypolicy.html), [Terms And Conditions](./tsandcs.html) and our [Cookie Policy](./cookies.html)
