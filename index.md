@@ -19,7 +19,7 @@
 ## <img src="/icons/discord.png" alt="discord"> My Discord Server
 > Join and find out info about my discord server <a href="discord">here</a>.
 
-## <img src="/icons/socials.png" alt="socialmedia"> My Social Medias
+## <img src="/icons/social.png" alt="socialmedia"> My Social Medias
 > Find all my accounts on a lot of platforms <a href="socialmedia">here</a>.
 
 ## <img src="/icons/hive.png" alt="thehive"> The Hive
