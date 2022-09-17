@@ -1,4 +1,6 @@
 # IRL Info
+<link rel="icon" type="image/x-icon" href="/icons/irl.png">
+
 
 ## What is my name?
 My name is Leon Street.
