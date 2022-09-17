@@ -4,25 +4,25 @@
 </head>
 
 # streetle.ml
-## Who Is streetle?
+## <img src="/icons/who.png" alt="streetle"> Who Is streetle?
 > Find out who I am <a href="streetle">here</a>.
 
-## IRL Info
+## <img src="/icons/irl.png" alt="info"> IRL Info
 > What do you want to know? Check if the answer is <a href="irl">here</a>.
 
-## My Favourite Games
+## <img src="/icons/games.png" alt="games"> My Favourite Games
 > You can find a list of my favourite games <a href="games">here</a>.
 
-## My Minecraft Mods
+## <img src="/icons/mods.png" alt="mods"> My Minecraft Mods
 > Download all of my Minecraft mods for free <a href="packs">here</a>.
 
-## My Discord Server
+## <img src="/icons/discord.png" alt="discord"> My Discord Server
 > Join and find out info about my discord server <a href="discord">here</a>.
 
-## My Social Medias
+## <img src="/icons/socials.png" alt="socialmedia"> My Social Medias
 > Find all my accounts on a lot of platforms <a href="socialmedia">here</a>.
 
-## The Hive
+## <img src="/icons/hive.png" alt="thehive"> The Hive
 > See all of my stats on The Hive Minecraft Bedrock server <a href="thehive">here</a>.
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5850853284840895"
