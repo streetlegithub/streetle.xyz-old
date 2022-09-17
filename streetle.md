@@ -1,7 +1,5 @@
- <head>
-  <title>Who is streetle?</title>
-  <link rel="icon" type="image/x-icon" href="/icons/who.png">
- </head>
+<title>Who is streetle?</title>
+<link rel="icon" type="image/x-icon" href="/icons/who.png">
 
 My online name is streetle, I mainly use discord to chat with anyone, my username is <i>streetle#9853</i>.
 
