@@ -1,5 +1,7 @@
 # The Hive
 
+<link rel="icon" type="image/x-icon" href="/icons/hive.png">
+
 ## Profile:
 
 <img src="/hive/profile.jpg" alt="profile">
