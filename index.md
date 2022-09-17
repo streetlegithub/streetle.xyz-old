@@ -22,7 +22,7 @@
 ## <img src="/icons/social.png" alt="socialmedia"> My Social Medias
 > Find all my accounts on a lot of platforms <a href="socialmedia">here</a>.
 
-## <img src="hive.png" alt="thehive" style="width:16px;height:16px;"> The Hive
+## <img src="/icons/hive.png" alt="thehive" style="width:16px;height:16px;"> The Hive
 > See all of my stats on The Hive Minecraft Bedrock server <a href="thehive">here</a>.
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5850853284840895"
