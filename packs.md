@@ -1,5 +1,7 @@
 # My Minecraft Mods
 
+<link rel="icon" type="image/x-icon" href="/icons/mods.png">
+
 ## Skywars Hive Ores
 >[Download](packs/skywarshiveores.html)
 
