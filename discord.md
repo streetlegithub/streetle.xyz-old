@@ -1,5 +1,7 @@
 # Discord
 
+<link rel="icon" type="image/x-icon" href="/icons/discord.png">
+
 ## Link
 > <a href="https://discord.gg/z8jACGsHF2">https://discord.gg/z8jACGsHF2</a>.
 
