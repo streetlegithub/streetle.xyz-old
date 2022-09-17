@@ -1,5 +1,7 @@
 # My Social Medias
 
+<link rel="icon" type="image/x-icon" href="/icons/social.png">
+
 ## Youtube:
 streetle
 
