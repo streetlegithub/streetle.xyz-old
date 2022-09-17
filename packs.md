@@ -1,40 +1,40 @@
 # My Minecraft Mods
 
 ## Skywars Hive Ores
->[Download](./skywarshiveores.html)
+>[Download](packs/skywarshiveores.html)
 
 ## Lower Swords
->[Download](./lowerswords.html)
+>[Download](packs/lowerswords.html)
 
 ## Custom Colored Hotbars
->[Download](./customcoloredhotbars.html)
+>[Download](packs/customcoloredhotbars.html)
 
 ## Colored Glass Shields
->[Download](./coloredglassshields.html)
+>[Download](packs/coloredglassshields.html)
 
 ## Custom Colored Hearts
->[Download](./customcoloredhearts.html)
+>[Download](packs/customcoloredhearts.html)
 
 ## Low Fire
->[Download](./lowfire.html)
+>[Download](packs/lowfire.html)
 
 ## All Ingots
->[Download](./allingots.html)
+>[Download](packs/allingots.html)
 
 ## Lean!
->[Download](./lean.html)
+>[Download](packs/lean.html)
 
 ## Campfire Smoke Remover
->[Download](./campfiresmokeremover.html)
+>[Download](packs/campfiresmokeremover.html)
 
 ## Particles Remover
->[Download](./particlesremover.html)
+>[Download](packs/particlesremover.html)
 
 ## Longer Swords
->[Download](./longerswords.html)
+>[Download](packs/longerswords.html)
 
 ## TNT = Bomb
->[Download](./tntbomb.html)
+>[Download](packs/tntbomb.html)
 
 As of 9th September 2022, I have stopped making minecraft mods.
 
