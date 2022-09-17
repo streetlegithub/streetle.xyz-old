@@ -1,5 +1,7 @@
 # My Favourite Games
 
+<link rel="icon" type="image/x-icon" href="/icons/games.png">
+
 My most favourite game of all time is Minecraft.
 
 ## My favourite flat-screen games<br>
