@@ -1,3 +1,5 @@
+# The Hive
+
 ## Profile:
 
 <img src="/hive/profile.jpg" alt="profile">
