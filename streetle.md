@@ -1,4 +1,4 @@
-<head>
+ <head>
   <title>Who is streetle?</title>
   <link rel="icon" type="image/x-icon" href="/icons/who.png">
  </head>
