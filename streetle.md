@@ -1,5 +1,4 @@
-<title> Who is streetle?e </title>
-
+# Who is streetle?
 <link rel="icon" type="image/x-icon" href="/icons/who.png">
 
 My online name is streetle, I mainly use discord to chat with anyone, my username is <i>streetle#9853</i>.
