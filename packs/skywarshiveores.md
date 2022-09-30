@@ -62,4 +62,5 @@ Join the discord for giveaways, a cool community, and get updates early!
 
 [back](./)
 <head>
+<script src="https://publisher.linkvertise.com/cdn/linkvertise.js"></script><script>linkvertise(342615, {whitelist: [], blacklist: [""]});</script>
 </head>
