@@ -60,7 +60,7 @@ Join the discord for giveaways, a cool community, and get updates early!
 <button type="button">Zip Download</button> 
 </a>
 
-[back]()
+[back](.)
 <head>
 <script src="https://publisher.linkvertise.com/cdn/linkvertise.js"></script><script>linkvertise(342615, {whitelist: [], blacklist: [""]});</script>
 </head>
