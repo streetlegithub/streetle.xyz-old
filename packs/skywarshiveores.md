@@ -60,6 +60,6 @@ Join the discord for giveaways, a cool community, and get updates early!
 <button type="button">Zip Download</button> 
 </a>
 
-[back](.)
+[back](streetle.ml/packs.html)
 <head>
 </head>
