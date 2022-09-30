@@ -50,7 +50,7 @@ This works on all devices and all platforms that can import these mods. Performa
 
 Join the discord for giveaways, a cool community, and get updates early!
 
-[Discord](./discord)
+[Discord](streetle.ml/discord.html)
 
 <a href="/skywars/skywars-hive-ores-mcpack.mcpack" download="skywars-hive-ores-mcpack"> 
 <button type="button">Mcpack Download</button> 
