@@ -52,12 +52,8 @@ Join the discord for giveaways, a cool community, and get updates early!
 
 <a href="https://streetle.ml/discord">Discord</a>
 
-<a href="/skywars/skywars-hive-ores-mcpack.mcpack" download="skywars-hive-ores-mcpack"> 
-<button type="button">Mcpack Download</button> 
-</a>
-
-<a href="/skywars/skywars-hive-ores-zip.zip" download="skywars-hive-ores-zip"> 
-<button type="button">Zip Download</button> 
+<a href="/skywars/download.html"> 
+<button type="button">Download</button> 
 </a>
 
 <a href="https://streetle.ml/packs">back</a>
