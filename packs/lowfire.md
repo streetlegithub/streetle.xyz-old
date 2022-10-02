@@ -14,7 +14,7 @@ This edits the “fire” texture to make you have a better viewing expierience,
 
 <img src="/all/images.png" alt="images">
 
-
+<img src="/lowfire/IMG_0386.gif" alt="Animated Gif of Low Fire">
 
 <img src="/all/req.png" alt="requirements">
 
