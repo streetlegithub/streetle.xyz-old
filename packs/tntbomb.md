@@ -14,7 +14,7 @@ Changes tnt textures to have bomb texture.
 
 <img src="/all/images.png" alt="images">
 
-
+<img src="/tntbomb/tnt.gif" alt="tnt">
 
 <img src="/all/req.png" alt="requirements">
 
