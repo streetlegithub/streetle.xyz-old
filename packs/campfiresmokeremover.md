@@ -14,7 +14,9 @@ Changes campfire_smoke particle to a blank texture.
 
 <img src="/all/images.png" alt="images">
 
+<img src="/campfiresmokeremover/fire.png" alt="fire">
 
+<img src="/campfiresmokeremover/soul_fire.png" alt="soul fire">
 
 <img src="/all/req.png" alt="requirements">
 
