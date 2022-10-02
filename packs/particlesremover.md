@@ -14,7 +14,7 @@ Changes campfire_smoke.png, particles.png, sculk_charge.png, sculk_charge_pop.pn
 
 <img src="/all/images.png" alt="images">
 
-
+<img src="/particlesremover/sheep.png" alt="sheep being hit without particles">
 
 <img src="/all/req.png" alt="requirements">
 
