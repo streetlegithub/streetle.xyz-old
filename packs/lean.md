@@ -16,7 +16,9 @@ This works by editing the “water” texture in the resource pack, it colorizes
 
 <img src="/all/images.png" alt="images">
 
+<img src="/lean/lean.png" alt="Lean">
 
+<img src="/lean/bucket.png" alt="Lean in a bucket">
 
 <img src="/all/req.png" alt="requirements">
 
