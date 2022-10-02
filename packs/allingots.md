@@ -14,7 +14,7 @@ Changes emerald.png, coal.png and diamond.png textures to be ingots and colored 
 
 <img src="/all/images.png" alt="images">
 
-
+<img src="/allingots/allingots.png" alt="Image of custom ingots on grass block">
 
 <img src="/all/req.png" alt="requirements">
 
