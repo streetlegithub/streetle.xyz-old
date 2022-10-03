@@ -1,4 +1,4 @@
-# Download Name
+# Download Lower Swords
 <a href="/lowerswords/lower-swords-mcpack.mcpack" download="lower-swords-mcpack"> 
 <button type="button">Mcpack Download</button> 
 </a>
