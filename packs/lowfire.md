@@ -26,12 +26,8 @@ Join the discord for giveaways, a cool community, and get updates early!
 
 <a href="https://streetle.ml/discord">Discord</a>
 
-<a href="/lowfire/low-fire-mcpack.mcpack" download="low-fire-mcpack"> 
-<button type="button">Mcpack Download</button> 
-</a>
-
-<a href="/lowfire/low-fire-zip.zip" download="low-fire-zip"> 
-<button type="button">Zip Download</button> 
+<a href="https://link-hub.net/342615/low-fire"> 
+<button type="button">Download</button> 
 </a>
 
 <a href="https://streetle.ml/packs">back</a>
