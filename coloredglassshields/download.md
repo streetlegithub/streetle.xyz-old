@@ -1,4 +1,4 @@
-# Download Name
+# Download Colored Glass Shields
 <a href="/coloredglassshields/colored-glass-shields-mcpack.mcpack" download="colored-glass-shields-mcpack"> 
 <button type="button">Mcpack Download</button> 
 </a>
