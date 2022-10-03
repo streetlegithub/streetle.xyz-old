@@ -1,4 +1,4 @@
-# Download Name
+# Download Longer Swords
 <a href="/longerswords/longer-swords-mcpack.mcpack" download="longer-swords-mcpack"> 
 <button type="button">Mcpack Download</button> 
 </a>
