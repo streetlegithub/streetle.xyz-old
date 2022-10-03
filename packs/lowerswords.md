@@ -32,12 +32,8 @@ Join the discord for giveaways, a cool community, and get updates early!
 
 <a href="https://streetle.ml/discord">Discord</a>
 
-<a href="/lowerswords/lower-swords-mcpack.mcpack" download="lower-swords-mcpack"> 
-<button type="button">Mcpack Download</button> 
-</a>
-
-<a href="/lowerswords/lower-swords-zip.zip" download="lower-swords-zip"> 
-<button type="button">Zip Download</button> 
+<a href="https://link-center.net/342615/lower-swords-download"> 
+<button type="button">Download</button> 
 </a>
 
 <a href="https://streetle.ml/packs">back</a>
