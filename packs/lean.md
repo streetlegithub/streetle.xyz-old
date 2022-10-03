@@ -30,12 +30,8 @@ Join the discord for giveaways, a cool community, and get updates early!
 
 <a href="https://streetle.ml/discord">Discord</a>
 
-<a href="/lean/lean-mcpack.mcpack" download="lean-mcpack"> 
-<button type="button">Mcpack Download</button> 
-</a>
-
-<a href="/lean/lean-zip.zip" download="lean-zip"> 
-<button type="button">Zip Download</button> 
+<a href="https://direct-link.net/342615/lean"> 
+<button type="button">Download</button> 
 </a>
 
 <a href="https://streetle.ml/packs">back</a>
