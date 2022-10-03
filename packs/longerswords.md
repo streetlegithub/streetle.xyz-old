@@ -26,12 +26,8 @@ Join the discord for giveaways, a cool community, and get updates early!
 
 <a href="https://streetle.ml/discord">Discord</a>
 
-<a href="/longerswords/longer-swords-mcpack.mcpack" download="longer-swords-mcpack"> 
-<button type="button">Mcpack Download</button> 
-</a>
-
-<a href="/longerswords/longer-swords-zip.zip" download="longer-swords-zip"> 
-<button type="button">Zip Download</button> 
+<a href="https://link-target.net/342615/longer-swords"> 
+<button type="button">Download</button> 
 </a>
 
 <a href="https://streetle.ml/packs">back</a>
