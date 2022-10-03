@@ -1,4 +1,4 @@
-# Download Name
+# Download Custom Colored Hotbars
 <a href="/customcoloredhotbars/custom-colored-hotbars-mcpack.mcpack" download="custom-colored-hotbars-mcpack"> 
 <button type="button">Mcpack Download</button> 
 </a>
