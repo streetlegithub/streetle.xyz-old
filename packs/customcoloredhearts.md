@@ -37,7 +37,7 @@ This works on all devices and all platforms that can import these mods. It will 
 
 Join the discord for giveaways, a cool community, and get updates early! 
 
-[Discord](./discord)
+<a href="https://streetle.ml/discord">Discord</a>
 
 <a href="/customcoloredhearts/custom-colored-hearts-mcpack.mcpack" download="custom-colored-hearts-mcpack"> 
 <button type="button">Mcpack Download</button> 
