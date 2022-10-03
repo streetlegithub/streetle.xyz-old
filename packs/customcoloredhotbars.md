@@ -70,12 +70,8 @@ Join the discord for giveaways, a cool community, and get updates early!
 
 <a href="https://streetle.ml/discord">Discord</a>
 
-<a href="/customcoloredhotbars/custom-colored-hotbars-mcpack.mcpack" download="custom-colored-hotbars-mcpack"> 
-<button type="button">Mcpack Download</button> 
-</a>
-
-<a href="/customcoloredhotbars/custom-colored-hotbars-zip.zip" download="custom-colored-hotbars-zip"> 
-<button type="button">Zip Download</button> 
+<a href="https://link-center.net/342615/custom-colored-hotbars"> 
+<button type="button">Download</button> 
 </a>
 
 <a href="https://streetle.ml/packs">back</a>
