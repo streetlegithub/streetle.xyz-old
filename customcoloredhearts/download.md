@@ -1,4 +1,4 @@
-# Download Name
+# Download Custom Colored Hearts
 <a href="/customcoloredhearts/name-mcpack.mcpack" download="custom-colored-hearts-mcpack"> 
 <button type="button">Mcpack Download</button> 
 </a>
