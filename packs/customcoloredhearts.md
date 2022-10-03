@@ -39,12 +39,8 @@ Join the discord for giveaways, a cool community, and get updates early!
 
 <a href="https://streetle.ml/discord">Discord</a>
 
-<a href="/customcoloredhearts/custom-colored-hearts-mcpack.mcpack" download="custom-colored-hearts-mcpack"> 
-<button type="button">Mcpack Download</button> 
-</a>
-
-<a href="/customcoloredhearts/custom-colored-hearts-zip.zip" download="custom-colored-hearts-zip"> 
-<button type="button">Zip Download</button> 
+<a href="https://direct-link.net/342615/custom-colored-hearts"> 
+<button type="button">Download</button> 
 </a>
 
 <a href="https://streetle.ml/packs">back</a>
