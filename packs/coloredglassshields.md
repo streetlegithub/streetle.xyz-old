@@ -50,12 +50,8 @@ Join the discord for giveaways, a cool community, and get updates early!
 
 <a href="https://streetle.ml/discord">Discord</a>
 
-<a href="/coloredglassshields/colored-glass-shields-mcpack.mcpack" download="colored-glass-shields-mcpack"> 
-<button type="button">Mcpack Download</button> 
-</a>
-
-<a href="/coloredglassshields/colored-glass-shields-zip.zip" download="colored-glass-shields-zip"> 
-<button type="button">Zip Download</button> 
+<a href="https://direct-link.net/342615/colored-glass-shields"> 
+<button type="button">Download</button> 
 </a>
 
 <a href="https://streetle.ml/packs">back</a>
