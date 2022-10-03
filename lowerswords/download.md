@@ -3,7 +3,7 @@
 <button type="button">Mcpack Download</button> 
 </a>
 
-<a href="/lowerswords/name-zip.zip" download="lower-swords-zip"> 
+<a href="/lowerswords/lower-swords-zip.zip" download="lower-swords-zip"> 
 <button type="button">Zip Download</button> 
 </a>
 
