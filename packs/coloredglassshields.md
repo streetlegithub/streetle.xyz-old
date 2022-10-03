@@ -48,7 +48,7 @@ This works on all devices and all platforms that can import these mods. It will 
 
 Join the discord for giveaways, a cool community, and get updates early! 
 
-[Discord](./discord)
+<a href="https://streetle.ml/discord">Discord</a>
 
 <a href="/coloredglassshields/colored-glass-shields-mcpack.mcpack" download="colored-glass-shields-mcpack"> 
 <button type="button">Mcpack Download</button> 
