@@ -1,4 +1,4 @@
-# Download Name
+# Download Campfire Smoke Remover
 <a href="/campfiresmokeremover/campfire-smoke-remover-mcpack.mcpack" download="campfire-smoke-remover-mcpack"> 
 <button type="button">Mcpack Download</button> 
 </a>
