@@ -26,12 +26,8 @@ Join the discord for giveaways, a cool community, and get updates early!
 
 <a href="https://streetle.ml/discord">Discord</a>
 
-<a href="/allingots/all-ingots-mcpack.mcpack" download="all-ingots-mcpack"> 
-<button type="button">Mcpack Download</button> 
-</a>
-
-<a href="/allingots/all-ingots-zip.zip" download="all-ingots-zip"> 
-<button type="button">Zip Download</button> 
+<a href="https://link-center.net/342615/all-ingots"> 
+<button type="button">Download</button> 
 </a>
 
 <a href="https://streetle.ml/packs">back</a>
