@@ -26,7 +26,7 @@ This works on all devices and all platforms that can import these mods. Performa
 
 Join the discord for giveaways, a cool community, and get updates early! 
 
-[Discord](./discord)
+<a href="https://streetle.ml/discord">Discord</a>
 
 <a href="/campfiresmokeremover/campfire-smoke-remover-mcpack.mcpack" download="campfire-smoke-remover-mcpack"> 
 <button type="button">Mcpack Download</button> 
