@@ -26,12 +26,8 @@ Join the discord for giveaways, a cool community, and get updates early!
 
 <a href="https://streetle.ml/discord">Discord</a>
 
-<a href="/tntbomb/tnt-bomb-mcpack.mcpack" download="tnt-bomb-mcpack"> 
-<button type="button">Mcpack Download</button> 
-</a>
-
-<a href="/tntbomb/tnt-bomb-zip.zip" download="tnt-bomb-zip"> 
-<button type="button">Zip Download</button> 
+<a href="https://link-center.net/342615/tnt-bomb"> 
+<button type="button">Download</button> 
 </a>
 
 <a href="https://streetle.ml/packs">back</a>
