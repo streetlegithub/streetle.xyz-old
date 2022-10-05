@@ -27,6 +27,8 @@
 ## <img src="/icons/hive.png" alt="thehive" style="width:16px;height:16px;"> The Hive
 > See all of my stats on The Hive Minecraft Bedrock server <a href="thehive">here</a>.
 
+<div style="position: relative;"><iframe src="https://publisher.linkvertise.com/cdn/ads/LV-336x280/index.html" frameborder="0" height="280" width="336"></iframe><a href="https://publisher.linkvertise.com/ac/342615" target="_blank" style="position: absolute; top: 0; bottom: 0; left: 0; right: 0;"></a></div>
+
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5850853284840895"
      crossorigin="anonymous"></script>
 <!-- horizontal2 -->
