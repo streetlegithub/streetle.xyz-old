@@ -14,6 +14,17 @@
 ## Colored Glass Shields
 >[Download](packs/coloredglassshields.html)
 
+<script type="text/javascript">
+	atOptions = {
+		'key' : '906eff52d9424e85f8d9bc665b9b50b6',
+		'format' : 'iframe',
+		'height' : 250,
+		'width' : 300,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.highperformancedisplayformat.com/906eff52d9424e85f8d9bc665b9b50b6/invoke.js"></scr' + 'ipt>');
+</script>
+
 ## Custom Colored Hearts
 >[Download](packs/customcoloredhearts.html)
 
@@ -25,6 +36,17 @@
 
 ## Lean!
 >[Download](packs/lean.html)
+
+<script type="text/javascript">
+	atOptions = {
+		'key' : '906eff52d9424e85f8d9bc665b9b50b6',
+		'format' : 'iframe',
+		'height' : 250,
+		'width' : 300,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.highperformancedisplayformat.com/906eff52d9424e85f8d9bc665b9b50b6/invoke.js"></scr' + 'ipt>');
+</script>
 
 ## Campfire Smoke Remover
 >[Download](packs/campfiresmokeremover.html)
@@ -38,6 +60,15 @@
 ## TNT = Bomb
 >[Download](packs/tntbomb.html)
 
-As of 9th September 2022, I have stopped making minecraft mods.
+<script type="text/javascript">
+	atOptions = {
+		'key' : '906eff52d9424e85f8d9bc665b9b50b6',
+		'format' : 'iframe',
+		'height' : 250,
+		'width' : 300,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.highperformancedisplayformat.com/906eff52d9424e85f8d9bc665b9b50b6/invoke.js"></scr' + 'ipt>');
+</script>
 
 [back](./)
