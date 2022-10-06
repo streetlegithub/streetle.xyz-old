@@ -18,6 +18,17 @@
 ## <img src="/icons/mods.png" alt="mods"> My Minecraft Mods
 > Download all of my Minecraft mods for free <a href="packs">here</a>.
 
+<script type="text/javascript">
+	atOptions = {
+		'key' : '906eff52d9424e85f8d9bc665b9b50b6',
+		'format' : 'iframe',
+		'height' : 250,
+		'width' : 300,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.highperformancedisplayformat.com/906eff52d9424e85f8d9bc665b9b50b6/invoke.js"></scr' + 'ipt>');
+</script>
+
 ## <img src="/icons/discord.png" alt="discord"> My Discord Server
 > Join and find out info about my discord server <a href="discord">here</a>.
 
