@@ -5,7 +5,7 @@
 ## Link
 > <a href="https://discord.gg/z8jACGsHF2">https://discord.gg/z8jACGsHF2</a>.
 
-# Info about channels
+# Info about channels (NOT UPDATED)
 
 ## 📣-announcements
 > A channel where I post announcements about anything related to minecraft or me, I also ping everyone in this channel whenever I post a youtube video.
