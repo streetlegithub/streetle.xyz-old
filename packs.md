@@ -14,17 +14,6 @@
 ## Colored Glass Shields
 >[Download](packs/coloredglassshields.html)
 
-<script type="text/javascript">
-	atOptions = {
-		'key' : '906eff52d9424e85f8d9bc665b9b50b6',
-		'format' : 'iframe',
-		'height' : 250,
-		'width' : 300,
-		'params' : {}
-	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.highperformancedisplayformat.com/906eff52d9424e85f8d9bc665b9b50b6/invoke.js"></scr' + 'ipt>');
-</script>
-
 ## Custom Colored Hearts
 >[Download](packs/customcoloredhearts.html)
 
@@ -37,17 +26,6 @@
 ## Lean!
 >[Download](packs/lean.html)
 
-<script type="text/javascript">
-	atOptions = {
-		'key' : '906eff52d9424e85f8d9bc665b9b50b6',
-		'format' : 'iframe',
-		'height' : 250,
-		'width' : 300,
-		'params' : {}
-	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.highperformancedisplayformat.com/906eff52d9424e85f8d9bc665b9b50b6/invoke.js"></scr' + 'ipt>');
-</script>
-
 ## Campfire Smoke Remover
 >[Download](packs/campfiresmokeremover.html)
 
@@ -59,16 +37,5 @@
 
 ## TNT = Bomb
 >[Download](packs/tntbomb.html)
-
-<script type="text/javascript">
-	atOptions = {
-		'key' : '54ab6b7e5edd402d96c4591296af3e54',
-		'format' : 'iframe',
-		'height' : 60,
-		'width' : 468,
-		'params' : {}
-	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.highperformancedisplayformat.com/54ab6b7e5edd402d96c4591296af3e54/invoke.js"></scr' + 'ipt>');
-</script>
 
 [back](./)
