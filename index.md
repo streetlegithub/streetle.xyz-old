@@ -30,14 +30,3 @@
 <div style="position: relative;"><iframe src="https://publisher.linkvertise.com/cdn/ads/LV-336x280/index.html" frameborder="0" height="280" width="336"></iframe><a href="https://publisher.linkvertise.com/ac/342615" target="_blank" style="position: absolute; top: 0; bottom: 0; left: 0; right: 0;"></a></div>
 
 <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
-
-<script type="text/javascript">
-	atOptions = {
-		'key' : '54ab6b7e5edd402d96c4591296af3e54',
-		'format' : 'iframe',
-		'height' : 60,
-		'width' : 468,
-		'params' : {}
-	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.highperformancedisplayformat.com/54ab6b7e5edd402d96c4591296af3e54/invoke.js"></scr' + 'ipt>');
-</script>
