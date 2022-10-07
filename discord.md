@@ -25,17 +25,6 @@
 ## 🔔-reaction-roles
 > You can get roles here.
 
-<script type="text/javascript">
-	atOptions = {
-		'key' : '54ab6b7e5edd402d96c4591296af3e54',
-		'format' : 'iframe',
-		'height' : 60,
-		'width' : 468,
-		'params' : {}
-	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.highperformancedisplayformat.com/54ab6b7e5edd402d96c4591296af3e54/invoke.js"></scr' + 'ipt>');
-</script>
-
 ## ❤️-donate
 > I have my paypal.me link here (<a href="https://paypal.me/streetlemcpe">https://paypal.me/streetlemcpe</a>).
 
@@ -53,17 +42,6 @@
 
 ## 💁-support
 > Create a ticket for me to assist you with any issue.
-
-<script type="text/javascript">
-	atOptions = {
-		'key' : '54ab6b7e5edd402d96c4591296af3e54',
-		'format' : 'iframe',
-		'height' : 60,
-		'width' : 468,
-		'params' : {}
-	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.highperformancedisplayformat.com/54ab6b7e5edd402d96c4591296af3e54/invoke.js"></scr' + 'ipt>');
-</script>
 
 ## 🌆-media
 > Post images/videos here.
@@ -83,17 +61,6 @@
 ## 🔢-counting-to-????
 > Count from 1-100000000000000 (it's unlimited). We set goals on the channel name.
 
-<script type="text/javascript">
-	atOptions = {
-		'key' : '54ab6b7e5edd402d96c4591296af3e54',
-		'format' : 'iframe',
-		'height' : 60,
-		'width' : 468,
-		'params' : {}
-	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.highperformancedisplayformat.com/54ab6b7e5edd402d96c4591296af3e54/invoke.js"></scr' + 'ipt>');
-</script>
-
 ## 🤯-spam
 > SPAM SPAM SPAM SPAM SPAM SPAM SPAM.
 
@@ -111,16 +78,5 @@
 
 ## 📒-rules
 > See the rules that you have to follow.
-
-<script type="text/javascript">
-	atOptions = {
-		'key' : '54ab6b7e5edd402d96c4591296af3e54',
-		'format' : 'iframe',
-		'height' : 60,
-		'width' : 468,
-		'params' : {}
-	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.highperformancedisplayformat.com/54ab6b7e5edd402d96c4591296af3e54/invoke.js"></scr' + 'ipt>');
-</script>
 
 [back](./)
