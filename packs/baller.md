@@ -21,7 +21,9 @@ This mod will work on any device that can import these mods.
 <img src="/all/discord.png" alt="discord">
 
 Join the discord for a direct download, giveaways, and all my other packs!
-https://discord.gg/32DuhaYFH
+<a href="https://discord.gg/32DuhaYFH">
+<button type="button">Discord</button>
+<br><br>
 
 <a href="https://direct-link.net/342615/baller-mcpe"> 
 <button type="button">Download</button> 
