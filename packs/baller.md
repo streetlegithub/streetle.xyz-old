@@ -12,9 +12,7 @@ It works by adding a texture and a model to the entity “Baller”. It even has
 
 <img src="/all/images.png" alt="images">
 
-
-
-<img src="/all/req.png" alt="requirements">
+<img src="/baller/IMG_5339.jpeg" alt="baller">
 
 This mod will work on any device that can import these mods.
 
