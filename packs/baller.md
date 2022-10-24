@@ -14,6 +14,8 @@ It works by adding a texture and a model to the entity “Baller”. It even has
 
 <img src="/baller/IMG_5339.jpeg" alt="baller">
 
+<img src="/all/req.png" alt="requirements">
+
 This mod will work on any device that can import these mods.
 
 <img src="/all/discord.png" alt="discord">
@@ -21,7 +23,7 @@ This mod will work on any device that can import these mods.
 Join the discord for a direct download, giveaways, and all my other packs!
 https://discord.gg/32DuhaYFH
 
-<a href="link"> 
+<a href="https://direct-link.net/342615/baller-mcpe"> 
 <button type="button">Download</button> 
 </a>
 
