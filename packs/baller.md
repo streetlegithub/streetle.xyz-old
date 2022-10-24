@@ -1,4 +1,4 @@
-## baller
+## Baller
 
 This mod adds the “Baller“ meme into minecraft. It does this by adding the baller meme as an entity in the game, however it cannot move around as it has no movement mechanics. It is just for decoration, and does not add anything new to the game other than the “Baller” mob. You can find more info on the “Baller” meme here: https://amp.knowyourmeme.com/memes/roblox-baller
 
