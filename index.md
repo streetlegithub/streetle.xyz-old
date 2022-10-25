@@ -1,11 +1,5 @@
-<head>
 <<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5850853284840895"
      crossorigin="anonymous"></script>
-
- <head>
-  <title>streetle.ml</title>
-  <link rel="icon" type="image/x-icon" href="/images/favicon.png">
- </head>
 
 ## <img src="/icons/who.png" alt="streetle"> Who Is streetle?
 > Find out who I am <a href="streetle">here</a>.
