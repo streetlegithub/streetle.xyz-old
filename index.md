@@ -1,4 +1,4 @@
-<<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5850853284840895"
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5850853284840895"
      crossorigin="anonymous"></script>
 
 ## <img src="/icons/who.png" alt="streetle"> Who Is streetle?
