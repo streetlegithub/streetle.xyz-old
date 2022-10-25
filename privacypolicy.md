@@ -1,5 +1,5 @@
 # Privacy Policy
-## For streetle's bedrock basement
+## For streetle
 
 <h1>Privacy Policy for streetle</h1>
 
