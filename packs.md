@@ -1,9 +1,9 @@
-# My Minecraft .
+# My Minecraft Mods
 
-## <img src="/icons/hive.png" alt="thehive" style="width:16px;height:16px;"> The Hive
-> See all of my stats on The Hive Minecraft Bedrock server <a href="thehive">here</a>.
+<link rel="icon" type="image/png" href="/icons/mods.png">
 
-<link rel="icon" type="image/x-icon" href="/icons/mods.png">
+## Tiny Crosshairs
+>[Download](packs/crosshairs.html)
 
 ## Baller
 >[Download](packs/baller.html)
