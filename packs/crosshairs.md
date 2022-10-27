@@ -1,4 +1,4 @@
-## Custom Colored Hotbars
+## Tiny Crosshairs
 
 <img src="/all/intro.png" alt="intro">
 
