@@ -2,6 +2,9 @@
 
 <link rel="icon" type="image/png" href="/icons/mods.png">
 
+## Gaming Computer PC
+>[Download](packs/pc.html)
+
 ## Tiny Crosshairs
 >[Download](packs/crosshairs.html)
 
