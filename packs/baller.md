@@ -29,4 +29,5 @@ Join the discord for a direct download, giveaways, and all my other packs!
 <button type="button">Download</button> 
 </a>
 
-[back](./)
+<a href="https://streetle.ml/packs">back</a>
+
