@@ -2,7 +2,7 @@
 
 <link rel="icon" type="image/png" href="/icons/mods.png">
 
-## Gaming RGB Keyboard
+## Gaming Keyboard RGB
 >[Download](packs/keyboard.html)
 
 ## Gaming Computer PC
