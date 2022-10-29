@@ -2,6 +2,9 @@
 
 <link rel="icon" type="image/png" href="/icons/mods.png">
 
+## Gaming Mouse RGB
+>[Download](packs/mouse.html)
+
 ## Gaming Keyboard RGB
 >[Download](packs/keyboard.html)
 
