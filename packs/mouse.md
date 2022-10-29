@@ -1,4 +1,4 @@
-## Baller
+## Gaming Mouse RGB
 
 <img src="/all/intro.png" alt="intro">
 
