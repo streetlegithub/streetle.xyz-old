@@ -1,10 +1,8 @@
 ## Gaming Keyboard RGB
 
-Did you ever try and build a setup in Minecraft, but gen you realised that none of the blocks actually look like a keyboard?
-That all of the tutorials you use look nothing remotely like what you wanted?
-Well, this pack will solve your issues!
-
 <img src="/all/intro.png" alt="intro">
+
+Did you ever try and build a setup in Minecraft, but gen you realised that none of the blocks actually look like a keyboard? That all of the tutorials you use look nothing remotely like what you wanted? Well, this pack will solve your issues!
 
 This mod adds a Gaming Keyboard into the game, it has RGB colors and fits well in setups.
 
