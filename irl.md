@@ -3,15 +3,15 @@
 
 
 ## What is my name?
-My name is Leon Street.
+My name is Leon.
 
 ## Where do I live?
-I won't go into specifics, but I live somewhere in england.
+England
 
 ## How old am I?
-I am years old
+I do not publicly disclose this information.
 
 ## Any siblings?
-I have 1 half brother and 1 half sister. I still call them brother and sister though <3 <br> My sister is 15<br> My brother is 5
+I have 1 half brother and 1 half sister. I still call them brother and sister though <3 <br> My sister is 16<br> My brother is 6
 
 [back](./)
