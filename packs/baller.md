@@ -25,7 +25,7 @@ Join the discord for a direct download, giveaways, and all my other packs!
 <button type="button">Discord</button>
 <br><br>
 
-<a href="https://direct-link.net/342615/baller-mcpe"> 
+<a href="https://www.streetle.ml/baller/download.html"> 
 <button type="button">Download</button> 
 </a>
 
