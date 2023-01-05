@@ -26,7 +26,7 @@ Join the discord for giveaways, a cool community, and get updates early!
 
 <a href="https://streetle.ml/discord">Discord</a>
 
-<a href="https://link-center.net/342615/all-ingots"> 
+<a href="https://www.streetle.ml/allingots/download"> 
 <button type="button">Download</button> 
 </a>
 
