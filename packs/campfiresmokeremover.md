@@ -28,7 +28,7 @@ Join the discord for giveaways, a cool community, and get updates early!
 
 <a href="https://streetle.ml/discord">Discord</a>
 
-<a href="https://direct-link.net/342615/campfire-smoke-remover"> 
+<a href="https://www.streetle.ml/campfiresmokeremover/download"> 
 <button type="button">Download</button> 
 </a>
 
