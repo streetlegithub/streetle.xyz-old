@@ -2,7 +2,7 @@
 
 <img src="/all/intro.png" alt="intro">
 
-Have you ever noticed that the crosshair is really big? That it takes up too much of your screen? Well, now you don't have to deal with that! This mod will fix all your crosshair-related issues.
+Have you ever noticed that the crosshair is really big? That it takes up too much of your screen? Well, now you don't have to deal with that! This mod will fix all your crosshair-related issues. If you're a Minecraft player looking to improve your aiming accuracy, then you might want to check out the Tiny Crosshairs mod. This mod adds a variety of new, smaller crosshairs to the Bedrock Edition of Minecraft, giving you more options to choose from and helping you land your shots with greater precision.
 
 This mod adds 4 different crosshairs to the game, each being smaller than the next.
 
