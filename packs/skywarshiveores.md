@@ -52,7 +52,7 @@ Join the discord for giveaways, a cool community, and get updates early!
 
 <a href="https://streetle.ml/discord">Discord</a>
 
-<a href="https://link-target.net/342615/skywars-hive-ores-mcpack"> 
+<a href="https://www.streetle.ml/skywars/download.html"> 
 <button type="button">Download</button> 
 </a>
 
