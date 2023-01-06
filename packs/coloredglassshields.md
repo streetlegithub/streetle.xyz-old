@@ -7,9 +7,11 @@ layout: default
 <img src="/all/intro.png" alt="intro">
 
 Have you ever used a shield in minecraft and realised that they are so big and obnoxious? They take up too much of your screen as well. So, I came up with a solution that is both pretty and useful at the same time! Shields + Colored Glass = Colored Glass Shields!
+If you're looking to add a touch of style to your Minecraft gameplay, then you might want to check out the Colored Glass Shields mod for Minecraft Bedrock Edition. This mod transforms the shields in the game into glass texture that is slightly transparent, giving them a sleek and modern look. Plus, with the ability to customize the color of the shields in the mod settings, you can choose a hue that suits your personal preferences.
 
+One of the great things about the Colored Glass Shields mod is that it's a simple yet effective way to improve the appearance of your character. By replacing the traditional wooden shields with colored glass versions, the mod adds a touch of class and sophistication to your gameplay. And with the ability to choose from a wide range of colors, you can mix and match to create the perfect look for your character.
 This pack adds 10+ colored glass shields to your game! It is highly customisable and I will add any colors you want me to in the comments :)
-
+Overall, the Colored Glass Shields mod is a must-have for any Minecraft player who wants to add a touch of style to their gameplay. So if you want to upgrade your shields and add a splash of color to your character, give this mod a try today!
 <img src="/all/how.png" alt="howitworks">
 
 This edits the “Shield” Model and Texture to make it look very colorful.
