@@ -8,10 +8,14 @@ layout: default
 
 Have you ever played on the hive? Noticed how all the ores look really boring and bland, not knowing what’ll come out of them?
 This pack makes the ores textures change to what they actually drop.
+If you're a fan of the popular Hive Minecraft server, then you'll definitely want to check out the Skywars Hive Ores mod for Minecraft Bedrock Edition. This mod completely overhauls the textures of all the ores in the game, replacing them with versions based on the items that drop when you mine them on the Hive server.
+
+One of the great things about the Skywars Hive Ores mod is that it really helps to immerse you in the world of the Hive server. By changing the appearance of the ores to match the items they drop, the mod makes it feel like you're really mining these items in the game world. It's a small touch, but it can make a big difference in terms of immersion and enjoyment.
 
 This pack was made for a popular Minecraft bedrock edition server called The Hive, I really recommend playing it sometime. I wouldn’t recommend using this on a normal world, this is designed and made for The Hive.
 This pack is a QOL pack (quality of life) that makes a bunch of small improvements to Skywars to make your gameplay more fun!
 
+Overall, the Skywars Hive Ores mod is a must-have for any Minecraft player who loves the Hive server. So if you want to bring a little bit of the Hive into your game, give this mod a try today!
 <img src="/all/how.png" alt="howitworks">
 
 It works just like any other resource pack out there, nothing special.
