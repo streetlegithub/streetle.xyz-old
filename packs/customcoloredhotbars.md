@@ -7,9 +7,11 @@ layout: default
 <img src="/all/intro.png" alt="intro">
 
 Want a fresh, clean hotbar that doesnt take up a lot of your screen, is easy to read, and looks hella sick? Well, this is the pack for you!   
+If you're tired of the cluttered and confusing hotbars in Minecraft, then you might want to check out the Custom Colored Hotbars mod for Minecraft Bedrock Edition. This mod simplifies the appearance of the hotbars in the game, making them easier to read and navigate. It also allows you to customize the color of the hotbars, so you can choose a hue that suits your personal preferences.
 
+One of the great things about the Custom Colored Hotbars mod is that it's a simple yet effective way to improve your gameplay experience. By streamlining the appearance of the hotbars and allowing you to choose your own colors, the mod makes it easier to see what's happening in the game world and quickly access the items you need. This can be especially helpful in fast-paced situations where every second counts, such as in PVP battles or when trying to navigate through dangerous environments.
 This pack adds 5+ colored hotbars to your game! It is highly customisable and I will add any colors you want me to in the MCPEDL comments :)
-
+Overall, the Custom Colored Hotbars mod is a must-have for any Minecraft player who wants to simplify the appearance of their hotbars and customize their colors. So if you want to improve your gameplay experience and make your hotbars easier to read, give this mod a try today!
 <img src="/all/how.png" alt="howitworks">
 
 This edits the “Hotbar_1,2,3,4,5,6,7,8,9” and “Hotbar_End_Cap” texture to make it look very colorful.
