@@ -7,8 +7,13 @@ layout: default
 <img src="/all/intro.png" alt="intro">
 
 Lean! I made the “Lean” meme in Minecraft Bedrock Edition for free for everyone to try out for themselves! This pack is finished and 100% works. This has been tested multiple times and it has always worked. This mod adds the “lean” meme into minecraft with water. It works everywhere and is very cool.
+If you're a fan of the popular Lean meme, then you might want to check out the Lean! mod for Minecraft Bedrock Edition. This mod brings the iconic purple water from the meme into the game, adding a touch of humor and fun to your Minecraft experience.
+
+One of the great things about the Lean! mod is that it's a simple yet effective way to add some personality and whimsy to your gameplay. Whether you're a diehard fan of the Lean meme or just looking for a way to mix things up in your Minecraft world, the Lean! mod is a great choice.
 
 It is basically purple water. Works for content creation and you can use the files in your pack without my permission.The lean meme can be explained here: https://amp.knowyourmeme.com/memes/i-love-lean
+
+Overall, the Lean! mod is a must-have for any Minecraft player who wants to add some humor and personality to their gameplay. So if you want to bring the iconic purple water of the Lean meme into your Minecraft world, give this mod a try today!
 
 <img src="/all/how.png" alt="howitworks">
 
