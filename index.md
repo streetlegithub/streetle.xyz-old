@@ -7,7 +7,7 @@
 ## <img src="/icons/irl.png" alt="info"> IRL Info
 > What do you want to know? Check if the answer is <a href="irl">here</a>.
 
-## <img src="/icons/blog.png" alt="blog"> Blog
+## <img src="/icons/blog.png" alt="blog" width="16px" height="16px"> Blog
 > Check my Minecraft-Related blog <a href="blog">here</a>.
 
 ## <img src="/icons/games.png" alt="games"> My Favourite Games
